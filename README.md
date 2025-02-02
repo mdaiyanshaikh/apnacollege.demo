@@ -1,4 +1,4 @@
 # apnacollege.demo
 just checking Github
 <br>
-Author - Aiyan
+Author - Aiyan khan
